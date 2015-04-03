@@ -1,8 +1,8 @@
 # GNU make
 
-##Makefile
+##目录
 
-###目录
+###Makefile
 
 - [1 基础概要](01.00.md)
 - [2 变量](01.01.md)
