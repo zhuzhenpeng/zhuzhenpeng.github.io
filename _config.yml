@@ -22,7 +22,7 @@ author:
 #  bio: 我就看看不说话
   location: 中国 广州
 
-rss_path: feed.xml
+#rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 

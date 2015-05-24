@@ -27,5 +27,3 @@ GTEST = $(GTEST_HEADER) $(GTEST_LIB)
 {% highlight sh %}
 g++ test.cc $(GTEST) -o test
 {% endhighlight %}
-
-description: gtest cookbook 1
