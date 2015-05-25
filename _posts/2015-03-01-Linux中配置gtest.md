@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Linux中配置gtest
-category: google test
-description: 简介：gtest cookbook 1
+title: GTest Cookbook 1 -- Linux中配置gtest
+category: Google Test
 ---
 
 [下载](https://code.google.com/p/googletest/downloads/list)并解压后

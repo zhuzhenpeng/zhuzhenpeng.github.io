@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  Test Fixtures初探
-category: google test
-description: 简介：gtest cookbook 5
+title:  GTest Cookbook 5 -- Test Fixtures初探
+category: Google Test
 ---
 
 > 有时我们的多个测试都是对相同的数据进行的，此时我们可以使用测试夹具

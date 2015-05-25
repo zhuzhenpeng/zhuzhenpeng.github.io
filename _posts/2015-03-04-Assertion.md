@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Assertion
-category: google test
-description: 简介：gtest cookbook 3
+title: GTest Cookbook 3 -- Assertion
+category: Google Test
 ---
 
 > 我们是通过Assertion来断言一个类或函数的行为的

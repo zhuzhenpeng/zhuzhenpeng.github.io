@@ -1,6 +1,6 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-paginate: 10 # pagination based on number of posts
+paginate: 12 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: pygments
@@ -12,15 +12,17 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: 博客
+      title: 无人区
 
 description: 
 author:
   name: Zhu
-  email: sparroooow@gmail.com
+  email: sparroooow@163.com
   github: zhuzhenpeng
-#  bio: 我就看看不说话
+  #bio: 
   location: 中国 广州
+
+  
 
 #rss_path: feed.xml
 categories_path: categories.html
