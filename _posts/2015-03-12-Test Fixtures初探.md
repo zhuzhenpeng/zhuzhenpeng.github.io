@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  GTest Cookbook 5 -- Test Fixtures初探
+title:  GTest 5 -- Test Fixtures初探
 category: Google Test
 ---
 

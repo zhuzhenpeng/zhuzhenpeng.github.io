@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GTest Cookbook 1 -- Linux中配置gtest
+title: GTest 1 -- Linux中配置gtest
 category: Google Test
 ---
 

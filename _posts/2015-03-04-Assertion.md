@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GTest Cookbook 3 -- Assertion
+title: GTest 3 -- Assertion
 category: Google Test
 ---
 
